@@ -5,39 +5,39 @@
     "lists": [
          {
             "name": "ATS ID",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/ids.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/ids.txt"
         },
         {
             "name": "Origin",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/origins.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/origins.txt"
         },
         {
             "name": "Job title",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/Jobs.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/Jobs.txt"
         },
         {
             "name": "Company",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/companies.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/companies.txt"
         },
          {
             "name": "Status",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/job-status.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/job-status.txt"
         },
         {
             "name": "is Open",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/job-is-open.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/job-is-open.txt"
         },
         {
             "name": "is Public",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/job-publishing-status.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/job-publishing-status.txt"
         },
         {
             "name": "Date Added",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/dates.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/dates.txt"
         },
         {
             "name": "Date Closed",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/dates.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/dates.txt"
         },
     ]
 }

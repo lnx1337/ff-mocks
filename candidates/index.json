@@ -5,39 +5,39 @@
     "lists": [
          {
             "name": "ID",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/ids.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/ids.txt"
         },
         {
             "name": "First Name",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/first-names.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/first-names.txt"
         },
         {
             "name": "Last Name",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/last-names.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/last-names.txt"
         },
         {
             "name": "Gender",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/last-names.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/last-names.txt"
         },
         {
             "name": "Email",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/Jobs.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/Jobs.txt"
         },
         {
             "name": "Company",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/companies.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/companies.txt"
         },
         {
             "name": "Company URL",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/companies-urls.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/companies-urls.txt"
         },
         {
             "name": "Origin",
-            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/companies.txt"
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/companies.txt"
         },
         {
             "name": "Status",
-            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/candidate-status.txt"
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/main/common/main/candidate-status.txt"
         }
     ]
 }
