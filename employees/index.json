@@ -1,0 +1,43 @@
+
+
+{
+    "name": "Default",
+    "lists": [
+         {
+            "name": "ID",
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/ids.txt"
+        },
+        {
+            "name": "First Name",
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/first-names.txt"
+        },
+        {
+            "name": "Last Name",
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/last-names.txt"
+        },
+        {
+            "name": "Type",
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/employee-types.txt"
+        },
+        {
+            "name": "Gender",
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/last-names.txt"
+        },
+        {
+            "name": "Email",
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/Jobs.txt"
+        },
+        {
+            "name": "Mobile",
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/mobiles.txt"
+        },
+        {
+            "name": "Company",
+            "url": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/companies.txt"
+        },
+        {
+            "name": "Status",
+            "path": "https://raw.githubusercontent.com/lnx1337/ff-mocks/master/commons/main/employee-status.txt"
+        }
+    ]
+}
